@@ -1,0 +1,24 @@
+{
+  "name": "gopher-tessel",
+  "version": "0.0.0",
+  "description": "Gopher meets the Internet of Things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/emceeaich/gopher-tessel"
+  },
+  "keywords": [
+    "Tessel",
+    "gopher",
+    "internet of things"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "climate-si7020": "^0.1.1"
+  },
+  "devDependencies": {},
+  "author": "Emma Humphries"
+}
