@@ -8,6 +8,8 @@ And I wondered, "has anyone implemented Gopher in Node?" Turns out that [someone
 
 Gopher was overshadowed by the Web, partially because the University of Minnesota wanted to charge for the server software, and also because the Web's linking (and embedded images) were more appealing. But I still have fond memories of Gopher, so here's a little remembrance. Tiny computers running old protocols, and talking to the physical world.
 
+![Screenshot of Lynx with Gopher Menu](Screen-Shot.png)
+
 ---
 
 To run this project you'll need a tessel2 board and climate module as well as the tessel command line tools npm package.
